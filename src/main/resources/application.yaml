@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: URL-Shortner
+
+  profiles:
+    active: dev
+
+server:
+  port: 8070
