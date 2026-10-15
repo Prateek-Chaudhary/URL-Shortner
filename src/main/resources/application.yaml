@@ -3,7 +3,7 @@ spring:
     name: URL-Shortner
 
   profiles:
-    active: dev
+    active: uat
 
 server:
   port: 8070
